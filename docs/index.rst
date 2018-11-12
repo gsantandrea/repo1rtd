@@ -1,4 +1,4 @@
-Simple things - asdasda EEEE
+Simple things - asdasda EEEE asd
 ==================================
 
 .. toctree::
